@@ -1,0 +1,13 @@
+import { useState } from 'react'
+import ToDo from './component/ToDo'
+
+function App() {
+
+  return (
+    <>
+      <ToDo />
+    </>
+  )
+}
+
+export default App
