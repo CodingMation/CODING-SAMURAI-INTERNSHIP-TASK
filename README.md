@@ -5,3 +5,11 @@ This is a responsive **portfolio website** built using **React** and **Tailwind 
 🔗 **Live Site:** [Click to View](https://coding-samurai-internship-task-1-portfolio.vercel.app/)
 
 ---
+
+🔗 **Live Site:** [Click to View](https://coding-samurai-internship-task2-cou.vercel.app/)
+
+---
+
+🔗 **Live Site:** [Click to View](https://coding-samurai-internship-task3-tod.vercel.app/)
+
+---
