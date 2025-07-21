@@ -1,8 +1,7 @@
 # CODING-SAMURAI-INTERNSHIP-TASK
 Welcome to the Web Development Internship Tasks Repository! This repository contains all the tasks and projects completed during my web development internship at Coding Samurai
 
-
-This repository contains the first three tasks completed as part of my **Web Development Internship at Coding Samurai**. Each task showcases a project built using **React** and **Tailwind CSS**, focusing on clean UI and responsive design.
+Each task showcases a project built using **React** and **Tailwind CSS**, focusing on clean UI and responsive design.
 
 ---
 
